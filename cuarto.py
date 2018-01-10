@@ -3,3 +3,4 @@ print('cuarto')
 #otro
 #mmm?
 print('prueba definitiva ya que creo que ahora si lo actualiza automaticamente')
+print('sin sintaxis cron')
